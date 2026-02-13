@@ -2,8 +2,6 @@
 
 # JUSTMOONG
 
-<img src="https://github-profile-trophy.vercel.app/?username=iisacc-Justmoong&theme=tokyonight&no-frame=true&row=1&column=6" />
-
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=iisacc-Justmoong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
