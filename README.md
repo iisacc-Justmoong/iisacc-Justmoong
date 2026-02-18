@@ -14,57 +14,6 @@
 
 ---
 
-## ⚙ System Architecture
-
-```mermaid
-flowchart LR
-    Idea --> Engine[C++ Core Engine]
-    Engine --> UI[Qt / QML Layer]
-    UI --> Build[CMake Automation]
-    Build --> Sign[Code Sign]
-    Sign --> Notarize[macOS Notarization]
-    Notarize --> Release[Deployment]
-    Release --> Asset[Compounding Asset]
-```
-
----
-
-## 🧠 Stack Matrix
-
-```mermaid
-graph TD
-    Cpp[C++]
-    Qt[Qt/QML]
-    Go[Go]
-    Svelte[SvelteKit]
-    Py[Python]
-
-    Cpp --> Qt
-    Qt --> Desktop
-    Go --> Backend
-    Svelte --> Web
-    Py --> Automation
-```
-
----
-
-## 📈 Execution Model
-
-```mermaid
-graph LR
-    CashFlow[Revenue Layer]
-    Focus[Protected Focus Time]
-    Isaac[IISACC Core]
-    Automation[Automation Engine]
-    Brand[Long-Term Brand Equity]
-
-    CashFlow --> Focus
-    Focus --> Isaac
-    Automation --> Isaac
-    Isaac --> Brand
-```
-
----
 
 ## 🚀 Capability Surface
 
@@ -80,30 +29,6 @@ graph LR
 ![CMake](https://img.shields.io/badge/CMake-Build_Pipeline-darkred?style=for-the-badge\&logo=cmake)
 ![GitHub Actions](https://img.shields.io/badge/CI-Automated-blueviolet?style=for-the-badge\&logo=githubactions)
 
-</div>
-
----
-
-## 🔄 Compounding Momentum
-
-```mermaid
-flowchart TD
-    Build --> Ship
-    Ship --> Feedback
-    Feedback --> Refine
-    Refine --> Automate
-    Automate --> Build
-```
-
----
-
-<div align="center">
-
-### Independent Software
-
-### Independent Structure
-
-### Independent Momentum
 
 https://iisacc.com
 
