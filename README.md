@@ -1,10 +1,10 @@
 # Muyeong Yun · Justmoong
 
-**Product Engineer — creative software, C++ systems, and product UI**
+**Product Engineer · creative software, C++ systems, and product UI**
 
 I build [iisacc](https://iisacc.com/), an independent creative-software ecosystem. My work connects product requirements and interface design with application architecture, reusable SDKs, and the practical details of packaging and operation.
 
-I focus on tools that let people create, inspect, organize, and preserve their work. My background in e-commerce, visual design, and content operations also informs how I approach user workflows and product decisions.
+I focus on tools that let people create, inspect, organize, and preserve their work. UI/UX is central to my product decisions, from information hierarchy to precise interaction behavior. My background in e-commerce, visual design, and content operations also informs how I approach user workflows and product decisions.
 
 **Open to remote opportunities in product engineering, desktop application development, and design engineering.**
 
@@ -33,7 +33,7 @@ I focus on tools that let people create, inspect, organize, and preserve their w
 - **Storage continuity between applications:** Dreamscapes and Society share logical storage while preserving paths, identities, and existing files. Apple App Group behavior depends on the appropriate signing and entitlements. [Storage design](https://github.com/iisacc-Justmoong/Dreamscapes/blob/master/docs/SharedLogicalStorage.md)
 - **Source-aware local retrieval:** revision tracking, replaceable embedding providers, and model-fingerprinted caches connect retrieval to agent workflows without treating citation formatting as proof of factual accuracy. [Retrieval design](https://github.com/iisacc-Justmoong/iiMultimodalAgent/blob/main/docs/Rag.md)
 
-I am also developing native UI and canvas paths alongside existing Qt/QML applications. This is an ongoing migration, not a claim that every product or platform is already Qt-free.
+Existing products still use Qt/QML; native UI and canvas paths are under active development.
 
 ## How I work
 
