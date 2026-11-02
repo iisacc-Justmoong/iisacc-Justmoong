@@ -1,56 +1,58 @@
-# Muyeong Yun · Justmoong
+# iisacc
 
-**Product Engineer · creative software, C++ systems, and product UI**
+**Creative products. Shared foundations.**
 
-I build [iisacc](https://iisacc.com/), an independent creative-software ecosystem. My work connects product requirements and interface design with application architecture, reusable SDKs, and the practical details of packaging and operation.
+I'm Justmoong, building iisacc: an independent software ecosystem for creating, organizing, and connecting work. Thoughtful UI and UX shape both the products and the SDKs behind them.
 
-I focus on tools that let people create, inspect, organize, and preserve their work. UI/UX is central to my product decisions, from information hierarchy to precise interaction behavior. My background in e-commerce, visual design, and content operations also informs how I approach user workflows and product decisions.
+## Products
 
-**Open to remote opportunities in product engineering, desktop application development, and design engineering.**
+### In development
 
-## What I work on
+| Product | Focus |
+| :--- | :--- |
+| **Society** | A shared workspace for files, models, connected devices, and creative applications. |
+| **Dreamscapes** | AI-assisted image and video creation, generation review, and creative workflows. |
+| **Congregation** | A native canvas editor for drawing, painting, layers, and visual composition. |
+| **Alright** | A macOS Finder utility for creating documents directly from the context menu. |
+| **Time Scopes** | An iOS app bringing together time visualization, calendar events, Screen Time, and journaling. |
 
-- **Creative applications:** generation and review workflows, document editing, previews, and reusable canvas systems.
-- **C++ foundations:** explicit ownership, observable state, asynchronous work, module boundaries, and CMake package integration.
-- **Product UI:** information hierarchy, interaction states, declarative components, and the connection between design and implementation.
-- **Local AI and data:** agent orchestration, source-aware retrieval, file identity, revisions, and shared application storage.
-- **Web products:** SvelteKit and React interfaces, service integration, and customer-facing product flows.
+**Early-stage:** Thinking Space — an application scaffold under development.
 
-## Selected projects
+**Earlier work:** Vincent — local-first digital paper for sketching, writing, and connecting ideas; its source repository is now archived.
 
-| Project | Focus |
-| --- | --- |
-| [Dreamscapes](https://github.com/iisacc-Justmoong/Dreamscapes) | Creative application connecting image/video generation, result review, canvas editing, and Society-backed storage. |
-| [Society](https://github.com/iisacc-Justmoong/Society) | Content and storage workflows built around managed originals, file identity, revision history, and shared logical disks. |
-| [iiSDKCore](https://github.com/iisacc-Justmoong/iiSDKCore) | C++23 foundation for application lifetime, execution, and typed observable state, with explicit boundaries between contracts and runtime services. |
-| [iiSharedCanvas](https://github.com/iisacc-Justmoong/iiSharedCanvas) | Reusable creative-document and rendering components, including editing history, previews, and a growing native package. |
-| [LVUI](https://github.com/iisacc-Justmoong/LVUI) | Declarative UI and native component work that separates visual behavior from platform-host services. |
-| [iiMultimodalAgent](https://github.com/iisacc-Justmoong/iiMultimodalAgent) | C++23 agent orchestration, persistent sessions, permission-controlled tools, and opt-in local retrieval with source revisions. |
+## SDK
 
-## Recent engineering work
+The reusable building blocks of iisacc, organized by responsibility. The lineup is evolving; implementation and platform support vary by module.
 
-- **Observable state across shared-library boundaries:** a common observation runtime keeps dependency collection consistent between an application and hosted model modules. [Design and contracts](https://github.com/iisacc-Justmoong/iiSDKCore/blob/master/docs/observable.md)
-- **Storage continuity between applications:** Dreamscapes and Society share logical storage while preserving paths, identities, and existing files. Apple App Group behavior depends on the appropriate signing and entitlements. [Storage design](https://github.com/iisacc-Justmoong/Dreamscapes/blob/master/docs/SharedLogicalStorage.md)
-- **Source-aware local retrieval:** revision tracking, replaceable embedding providers, and model-fingerprinted caches connect retrieval to agent workflows without treating citation formatting as proof of factual accuracy. [Retrieval design](https://github.com/iisacc-Justmoong/iiMultimodalAgent/blob/main/docs/Rag.md)
+| Area | Lineup |
+| :--- | :--- |
+| **Runtime & tooling** | **iiSDKCore** · iiActorObject · iiJob · iiSDKBuilder |
+| **Interfaces** | **LVUI** · **LVRS** · LVRS-Svelte · iiGUI |
+| **Graphics & canvas** | **iiGPU** · **iiSharedCanvas** · iiPaintEngine · iiGraphicAdjust · iiColorManager · iiVisualCodec |
+| **Local AI & agents** | **iiLocalLLM** · **iiLocalDiffusion** · **iiMultimodalAgent** · iiDecision · iiAudioGen · iiVoiceOver |
+| **Files & documents** | **iiFileProvider** · iiGeneralDocument · iiJson · iiXml · iiCompression · iiCSMIDI |
+| **Connectivity & devices** | **iiSocietyHelper** · iiNetwork · iiWebServer · iiDeviceMultimedia · iiSocialIntegration · iiVirtualizer |
 
-Existing products still use Qt/QML; native UI and canvas paths are under active development.
+From native windows and editable canvases to local inference and file workflows, these modules are designed to be composed into products—not hidden behind a single monolithic framework.
 
-## How I work
+---
 
-I define the intended behavior and architectural constraints, use AI coding tools to support implementation, and review the resulting code and integration. I value clear ownership, reproducible failures, useful tests, and documentation that distinguishes implemented behavior from work still awaiting verification.
+## Languages
 
-**Core tools:** C++23 · Qt / QML · CMake · Git  
-**Product and web:** Figma · SvelteKit · React · TypeScript
+I use **C++** and **Python**.
 
-[Website](https://iisacc.com/) · [LinkedIn](https://www.linkedin.com/in/muyeong-yun-6488b0286/)
+<p>
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ logo" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python logo" height="48" />
+</p>
 
-<details>
-<summary>GitHub activity</summary>
+**C++** &nbsp; · &nbsp; **Python**
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iisacc-Justmoong&theme=tokyonight&hide_border=true" height="170" alt="GitHub contribution streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iisacc-Justmoong&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
-
-</details>
+<p>
+  <a href="https://iisacc.com/">iisacc.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/muyeong-yun-6488b0286/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/just_moong">X</a>
+</p>
