@@ -55,7 +55,13 @@ I use **C++** and **Python**.
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python logo" height="48" />
 </p>
 
-**C++** &nbsp; · &nbsp; **Python**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg" />
+  <img src="assets/languages-light.svg" alt="Language proportions in my public repositories, measured by GitHub code size" width="648" />
+</picture>
+
+Public, non-fork repositories, including archived work. Measured by code size, not coding time. Updated daily when the data changes. [Method and full breakdown](LANGUAGES.md).
 
 <p>
   <a href="https://iisacc.com/">iisacc.com</a>

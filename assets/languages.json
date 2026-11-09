@@ -1,0 +1,720 @@
+{
+  "owner": "iisacc-Justmoong",
+  "scope": "Owned public non-fork repositories, including archived repositories; profile repository excluded.",
+  "metric": "GitHub Linguist language bytes on each repository's default branch",
+  "deduplication": "Each repository ID once; copied code across distinct repositories is not deduplicated.",
+  "total_bytes": 59494620,
+  "repository_count": 52,
+  "repositories_with_code": 52,
+  "languages": {
+    "C++": 44316200,
+    "Python": 5050569,
+    "QML": 4045557,
+    "CMake": 2753577,
+    "Swift": 736576,
+    "Objective-C++": 637092,
+    "PowerShell": 539356,
+    "Shell": 292704,
+    "TypeScript": 292436,
+    "C#": 193672,
+    "Java": 146894,
+    "Rust": 143879,
+    "Svelte": 110905,
+    "CSS": 74459,
+    "C": 66010,
+    "JavaScript": 40385,
+    "HTML": 31992,
+    "TSQL": 10267,
+    "GLSL": 6572,
+    "Ruby": 2227,
+    "SystemVerilog": 1853,
+    "Dockerfile": 609,
+    "Objective-C": 503,
+    "Batchfile": 326
+  },
+  "repositories": [
+    {
+      "id": 1384729592,
+      "name": "iisacc-Justmoong/Alright",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "CMake": 19009,
+        "JavaScript": 3605,
+        "Python": 108773,
+        "Swift": 65138
+      }
+    },
+    {
+      "id": 1255087321,
+      "name": "iisacc-Justmoong/AnoPDF",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C#": 92869
+      }
+    },
+    {
+      "id": 1117400186,
+      "name": "iisacc-Justmoong/BuffetSsam",
+      "archived": true,
+      "default_branch": "main",
+      "languages": {
+        "CSS": 26826,
+        "HTML": 10591,
+        "JavaScript": 7110,
+        "Svelte": 26441
+      }
+    },
+    {
+      "id": 1359989997,
+      "name": "iisacc-Justmoong/Congregation",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C": 1037,
+        "C++": 1576625,
+        "CMake": 61249,
+        "JavaScript": 4490,
+        "PowerShell": 192636,
+        "Python": 122245,
+        "QML": 330919,
+        "Shell": 4189
+      }
+    },
+    {
+      "id": 1126124878,
+      "name": "iisacc-Justmoong/dotfiles",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "Ruby": 1163,
+        "Shell": 86223
+      }
+    },
+    {
+      "id": 1356910078,
+      "name": "iisacc-Justmoong/Dreamscapes",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C": 6366,
+        "C++": 4453730,
+        "CMake": 127343,
+        "GLSL": 865,
+        "Java": 5034,
+        "JavaScript": 15168,
+        "Objective-C++": 25929,
+        "Python": 200244,
+        "QML": 972102,
+        "Shell": 5304
+      }
+    },
+    {
+      "id": 1357869090,
+      "name": "iisacc-Justmoong/iiActorObject",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C": 5410,
+        "C++": 4473248,
+        "CMake": 283611,
+        "Python": 454397,
+        "Shell": 1905
+      }
+    },
+    {
+      "id": 1402584169,
+      "name": "iisacc-Justmoong/iiAudioGen",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C": 167,
+        "C++": 46161,
+        "CMake": 10256,
+        "Python": 12862
+      }
+    },
+    {
+      "id": 1384729373,
+      "name": "iisacc-Justmoong/iiCalendar",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C": 300,
+        "C++": 233882,
+        "CMake": 13354,
+        "Objective-C": 287,
+        "Objective-C++": 17766,
+        "Python": 2729
+      }
+    },
+    {
+      "id": 1411386530,
+      "name": "iisacc-Justmoong/iiCameraIntegration",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C": 260,
+        "C++": 324514,
+        "CMake": 44064,
+        "Objective-C++": 43289,
+        "Python": 3293,
+        "Shell": 9751
+      }
+    },
+    {
+      "id": 1422067713,
+      "name": "iisacc-Justmoong/iiColorManager",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C++": 30531,
+        "CMake": 9266
+      }
+    },
+    {
+      "id": 1357869094,
+      "name": "iisacc-Justmoong/iiCSMIDI",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C": 372,
+        "C++": 37654,
+        "CMake": 10882,
+        "Python": 971,
+        "Shell": 3167
+      }
+    },
+    {
+      "id": 1399193602,
+      "name": "iisacc-Justmoong/iiDecision",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C++": 103521,
+        "CMake": 14656,
+        "Python": 9559
+      }
+    },
+    {
+      "id": 1422067959,
+      "name": "iisacc-Justmoong/iiDeviceMultimedia",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C++": 177553,
+        "CMake": 18490,
+        "Objective-C++": 57428,
+        "Python": 26922
+      }
+    },
+    {
+      "id": 1357869092,
+      "name": "iisacc-Justmoong/iiFileProvider",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C": 2262,
+        "C++": 927425,
+        "CMake": 72017,
+        "Java": 3776,
+        "Objective-C++": 5355,
+        "Python": 54586,
+        "Shell": 3830,
+        "Swift": 21533
+      }
+    },
+    {
+      "id": 1350267118,
+      "name": "iisacc-Justmoong/iiGeneralDocument",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C": 880,
+        "C++": 699985,
+        "CMake": 75120,
+        "Shell": 2880
+      }
+    },
+    {
+      "id": 1422068182,
+      "name": "iisacc-Justmoong/iiGraphicAdjust",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C": 3198,
+        "C++": 1468534,
+        "CMake": 26272,
+        "Python": 4765
+      }
+    },
+    {
+      "id": 1422068087,
+      "name": "iisacc-Justmoong/iiGUI",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C": 1016,
+        "C++": 1670415,
+        "CMake": 130019,
+        "GLSL": 5707,
+        "Objective-C++": 259465,
+        "Python": 80697,
+        "Shell": 654
+      }
+    },
+    {
+      "id": 1226197374,
+      "name": "iisacc-Justmoong/iiHtmlBlock",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C": 443,
+        "C++": 130796,
+        "CMake": 16063,
+        "Shell": 13052
+      }
+    },
+    {
+      "id": 1422068269,
+      "name": "iisacc-Justmoong/iiJson",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C++": 171150,
+        "CMake": 11554,
+        "Python": 1819,
+        "Shell": 1097
+      }
+    },
+    {
+      "id": 1355238578,
+      "name": "iisacc-Justmoong/iiLocalDiffusion",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C": 534,
+        "C++": 963469,
+        "CMake": 131096,
+        "Objective-C++": 20779,
+        "Python": 1977969,
+        "Shell": 5836
+      }
+    },
+    {
+      "id": 1357869196,
+      "name": "iisacc-Justmoong/iiLocalLLM",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C": 1448,
+        "C++": 487471,
+        "CMake": 40449,
+        "Objective-C++": 1700,
+        "Python": 135518,
+        "Shell": 1844
+      }
+    },
+    {
+      "id": 1427573426,
+      "name": "iisacc-Justmoong/iiMultimodalAgent",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C": 1442,
+        "C++": 3167634,
+        "CMake": 100808,
+        "Python": 418891,
+        "QML": 12697,
+        "Shell": 2024
+      }
+    },
+    {
+      "id": 1427573486,
+      "name": "iisacc-Justmoong/iiNetwork",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C": 288,
+        "C++": 524454,
+        "CMake": 23736,
+        "Python": 7052,
+        "Shell": 1363
+      }
+    },
+    {
+      "id": 1248215151,
+      "name": "iisacc-Justmoong/iiPaintEngine",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C": 11316,
+        "C++": 885524,
+        "CMake": 35105
+      }
+    },
+    {
+      "id": 1384729490,
+      "name": "iisacc-Justmoong/iiPhotoLibrary",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C": 185,
+        "C++": 302714,
+        "CMake": 17250,
+        "Java": 31785,
+        "Objective-C++": 19366,
+        "Python": 3043,
+        "QML": 18311
+      }
+    },
+    {
+      "id": 1422068358,
+      "name": "iisacc-Justmoong/iiSDKBuilder",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C": 182,
+        "C++": 297489,
+        "CMake": 26313,
+        "Python": 27621,
+        "Shell": 628,
+        "SystemVerilog": 1853
+      }
+    },
+    {
+      "id": 1359298557,
+      "name": "iisacc-Justmoong/iiSDKCore",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C": 464,
+        "C++": 965556,
+        "CMake": 68210,
+        "HTML": 604,
+        "Python": 37784,
+        "Shell": 628
+      }
+    },
+    {
+      "id": 1335526472,
+      "name": "iisacc-Justmoong/iiSharedCanvas",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C": 4719,
+        "C++": 3637129,
+        "CMake": 187989,
+        "Python": 32180,
+        "Shell": 11709
+      }
+    },
+    {
+      "id": 1425137215,
+      "name": "iisacc-Justmoong/iiSocialPublish",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C": 196,
+        "C++": 238387,
+        "CMake": 10004,
+        "Python": 6722,
+        "Ruby": 1064,
+        "Shell": 717
+      }
+    },
+    {
+      "id": 1357869201,
+      "name": "iisacc-Justmoong/iiSocietyContainer",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C": 3567,
+        "C++": 717586,
+        "CMake": 76058,
+        "Java": 56967,
+        "Objective-C++": 30422,
+        "Python": 86849,
+        "Shell": 1818,
+        "Swift": 265017
+      }
+    },
+    {
+      "id": 1357869311,
+      "name": "iisacc-Justmoong/iiSocietyHelper",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C": 4175,
+        "C++": 1063761,
+        "CMake": 56524,
+        "Objective-C++": 14494,
+        "Python": 6827,
+        "Shell": 2145,
+        "Swift": 1095
+      }
+    },
+    {
+      "id": 1432960235,
+      "name": "iisacc-Justmoong/iiVirtualizer",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "Batchfile": 326,
+        "C": 93,
+        "C++": 385449,
+        "CMake": 23834,
+        "Dockerfile": 609,
+        "Python": 323350,
+        "Shell": 3669
+      }
+    },
+    {
+      "id": 1431632775,
+      "name": "iisacc-Justmoong/iiVisualCodec",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C": 6055,
+        "C++": 276294,
+        "CMake": 25149,
+        "Python": 47951,
+        "Shell": 1049
+      }
+    },
+    {
+      "id": 1357869764,
+      "name": "iisacc-Justmoong/iiVoiceOver",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C++": 11410,
+        "CMake": 5713,
+        "Python": 480,
+        "Shell": 1400
+      }
+    },
+    {
+      "id": 1357869193,
+      "name": "iisacc-Justmoong/iiWebServer",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C": 620,
+        "C#": 1608,
+        "C++": 254962,
+        "CMake": 32945,
+        "Python": 59575,
+        "Shell": 2359
+      }
+    },
+    {
+      "id": 1357869855,
+      "name": "iisacc-Justmoong/iiWhatsNew",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C++": 870,
+        "CMake": 3262,
+        "Shell": 1408
+      }
+    },
+    {
+      "id": 1225635335,
+      "name": "iisacc-Justmoong/iiXml",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C": 947,
+        "C++": 498869,
+        "CMake": 28344,
+        "Shell": 14055
+      }
+    },
+    {
+      "id": 1142982413,
+      "name": "iisacc-Justmoong/LVRS",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C": 1179,
+        "C++": 3713016,
+        "CMake": 405045,
+        "Objective-C++": 30731,
+        "PowerShell": 14131,
+        "Python": 121632,
+        "QML": 1241041,
+        "Rust": 135896,
+        "Shell": 42217
+      }
+    },
+    {
+      "id": 1163096261,
+      "name": "iisacc-Justmoong/LVRS-Svelte",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "CSS": 17152,
+        "HTML": 346,
+        "JavaScript": 6015,
+        "Shell": 6133,
+        "Svelte": 77834,
+        "TypeScript": 105515
+      }
+    },
+    {
+      "id": 1427573545,
+      "name": "iisacc-Justmoong/LVUI",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C++": 3930025,
+        "CMake": 190995,
+        "Python": 150327,
+        "Shell": 628
+      }
+    },
+    {
+      "id": 1253393976,
+      "name": "iisacc-Justmoong/OrderSystem",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C#": 99195,
+        "TSQL": 10267
+      }
+    },
+    {
+      "id": 1123752230,
+      "name": "iisacc-Justmoong/RefNexus",
+      "archived": true,
+      "default_branch": "master",
+      "languages": {
+        "C++": 15482,
+        "CMake": 3629,
+        "QML": 97938
+      }
+    },
+    {
+      "id": 1384729689,
+      "name": "iisacc-Justmoong/SDK",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C": 1401,
+        "C++": 839991,
+        "CMake": 77493,
+        "Objective-C++": 11130,
+        "PowerShell": 15030,
+        "Python": 268781,
+        "Shell": 2599
+      }
+    },
+    {
+      "id": 1359480843,
+      "name": "iisacc-Justmoong/Society",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "C": 4451,
+        "C++": 1318843,
+        "CMake": 93162,
+        "Java": 49332,
+        "Objective-C": 216,
+        "Objective-C++": 68006,
+        "Python": 142410,
+        "QML": 468856,
+        "Swift": 27964
+      }
+    },
+    {
+      "id": 1178422359,
+      "name": "iisacc-Justmoong/StoreLinktreeAlternate",
+      "archived": true,
+      "default_branch": "master",
+      "languages": {
+        "CSS": 28765,
+        "HTML": 378,
+        "JavaScript": 511,
+        "Svelte": 6630
+      }
+    },
+    {
+      "id": 1099600593,
+      "name": "iisacc-Justmoong/TextEditor",
+      "archived": true,
+      "default_branch": "main",
+      "languages": {
+        "C++": 16733,
+        "CMake": 3121,
+        "QML": 17523
+      }
+    },
+    {
+      "id": 1357273989,
+      "name": "iisacc-Justmoong/Thinking-Space",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "C++": 246,
+        "CMake": 7464,
+        "Python": 22995
+      }
+    },
+    {
+      "id": 1096886661,
+      "name": "iisacc-Justmoong/TimeScopes",
+      "archived": false,
+      "default_branch": "main",
+      "languages": {
+        "Python": 1964,
+        "Shell": 3653,
+        "Swift": 355829
+      }
+    },
+    {
+      "id": 1093892725,
+      "name": "iisacc-Justmoong/Vincent",
+      "archived": true,
+      "default_branch": "main",
+      "languages": {
+        "C": 1037,
+        "C++": 1050000,
+        "CMake": 55616,
+        "PowerShell": 317559,
+        "Python": 22995,
+        "QML": 330174,
+        "Shell": 46186
+      }
+    },
+    {
+      "id": 1202650082,
+      "name": "iisacc-Justmoong/webgma",
+      "archived": false,
+      "default_branch": "master",
+      "languages": {
+        "HTML": 20073,
+        "JavaScript": 3486,
+        "TypeScript": 186921
+      }
+    },
+    {
+      "id": 1158441431,
+      "name": "iisacc-Justmoong/WhatSon",
+      "archived": true,
+      "default_branch": "master",
+      "languages": {
+        "C++": 2227112,
+        "CMake": 81038,
+        "CSS": 1716,
+        "Objective-C++": 31232,
+        "Python": 63791,
+        "QML": 555996,
+        "Rust": 7983,
+        "Shell": 6584
+      }
+    }
+  ],
+  "updated_at": "2026-11-09T00:17:44+00:00"
+}
