@@ -3,25 +3,25 @@
   "scope": "Owned public non-fork repositories, including archived repositories; profile repository excluded.",
   "metric": "GitHub Linguist language bytes on each repository's default branch",
   "deduplication": "Each repository ID once; copied code across distinct repositories is not deduplicated.",
-  "total_bytes": 59494620,
+  "total_bytes": 59934780,
   "repository_count": 52,
   "repositories_with_code": 52,
   "languages": {
-    "C++": 44316200,
-    "Python": 5050569,
-    "QML": 4045557,
-    "CMake": 2753577,
+    "C++": 44957628,
+    "Python": 5126642,
+    "QML": 3714638,
+    "CMake": 2807069,
     "Swift": 736576,
     "Objective-C++": 637092,
-    "PowerShell": 539356,
-    "Shell": 292704,
+    "PowerShell": 539983,
+    "Shell": 293200,
     "TypeScript": 292436,
     "C#": 193672,
     "Java": 146894,
     "Rust": 143879,
     "Svelte": 110905,
     "CSS": 74459,
-    "C": 66010,
+    "C": 64973,
     "JavaScript": 40385,
     "HTML": 31992,
     "TSQL": 10267,
@@ -72,14 +72,12 @@
       "archived": false,
       "default_branch": "main",
       "languages": {
-        "C": 1037,
-        "C++": 1576625,
-        "CMake": 61249,
+        "C++": 2218053,
+        "CMake": 114741,
         "JavaScript": 4490,
-        "PowerShell": 192636,
-        "Python": 122245,
-        "QML": 330919,
-        "Shell": 4189
+        "PowerShell": 193263,
+        "Python": 198318,
+        "Shell": 4685
       }
     },
     {
@@ -716,5 +714,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-09T00:17:44+00:00"
+  "updated_at": "2026-11-09T12:02:40+00:00"
 }
