@@ -3,14 +3,14 @@
   "scope": "Owned public non-fork repositories, including archived repositories; profile repository excluded.",
   "metric": "GitHub Linguist language bytes on each repository's default branch",
   "deduplication": "Each repository ID once; copied code across distinct repositories is not deduplicated.",
-  "total_bytes": 59934780,
+  "total_bytes": 59953155,
   "repository_count": 52,
   "repositories_with_code": 52,
   "languages": {
-    "C++": 44957628,
+    "C++": 44961077,
     "Python": 5126642,
     "QML": 3714638,
-    "CMake": 2807069,
+    "CMake": 2821995,
     "Swift": 736576,
     "Objective-C++": 637092,
     "PowerShell": 539983,
@@ -601,8 +601,8 @@
       "default_branch": "main",
       "languages": {
         "C": 1401,
-        "C++": 839991,
-        "CMake": 77493,
+        "C++": 843440,
+        "CMake": 92419,
         "Objective-C++": 11130,
         "PowerShell": 15030,
         "Python": 268781,
@@ -714,5 +714,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-09T12:02:40+00:00"
+  "updated_at": "2026-11-10T11:41:38+00:00"
 }

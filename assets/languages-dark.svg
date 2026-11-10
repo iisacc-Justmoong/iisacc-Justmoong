@@ -7,14 +7,14 @@
 <text x="32" y="66" fill="#9198a1" font-size="13">Public repositories · code size</text>
 <defs><clipPath id="bar"><rect x="32" y="86" width="584" height="16" rx="5"/></clipPath></defs>
 <g clip-path="url(#bar)">
-<rect x="32.000000" y="86" width="438.063755" height="16" fill="#f34b7d"/>
-<rect x="470.063755" y="86" width="49.953615" height="16" fill="#3572A5"/>
-<rect x="520.017370" y="86" width="36.195154" height="16" fill="#44a51c"/>
-<rect x="556.212524" y="86" width="27.351870" height="16" fill="#DA3434"/>
-<rect x="583.564393" y="86" width="7.177141" height="16" fill="#F05138"/>
-<rect x="590.741535" y="86" width="6.207777" height="16" fill="#6866fb"/>
-<rect x="596.949311" y="86" width="5.261554" height="16" fill="#012456"/>
-<rect x="602.210865" y="86" width="13.789135" height="16" fill="#8b949e"/>
+<rect x="32.000000" y="86" width="437.963089" height="16" fill="#f34b7d"/>
+<rect x="469.963089" y="86" width="49.938305" height="16" fill="#3572A5"/>
+<rect x="519.901394" y="86" width="36.184061" height="16" fill="#44a51c"/>
+<rect x="556.085455" y="86" width="27.488880" height="16" fill="#DA3434"/>
+<rect x="583.574334" y="86" width="7.174942" height="16" fill="#F05138"/>
+<rect x="590.749276" y="86" width="6.205874" height="16" fill="#6866fb"/>
+<rect x="596.955150" y="86" width="5.259941" height="16" fill="#012456"/>
+<rect x="602.215091" y="86" width="13.784909" height="16" fill="#8b949e"/>
 </g>
 <circle cx="37" cy="128" r="5" fill="#f34b7d" stroke="#9198a1" stroke-width="0.5"/>
 <text x="51" y="133" fill="#f0f6fc" font-size="15" font-weight="600">C++ <tspan fill="#9198a1" font-weight="400">75.0%</tspan></text>
@@ -32,5 +32,5 @@
 <text x="51" y="223" fill="#f0f6fc" font-size="15" font-weight="600">PowerShell <tspan fill="#9198a1" font-weight="400">0.9%</tspan></text>
 <circle cx="329" cy="218" r="5" fill="#8b949e" stroke="#9198a1" stroke-width="0.5"/>
 <text x="343" y="223" fill="#f0f6fc" font-size="15" font-weight="600">Other <tspan fill="#9198a1" font-weight="400">2.4%</tspan></text>
-<text x="32" y="256" fill="#9198a1" font-size="12">52 repositories · 24 languages · updated 2026-11-09</text>
+<text x="32" y="256" fill="#9198a1" font-size="12">52 repositories · 24 languages · updated 2026-11-10</text>
 </g></svg>
