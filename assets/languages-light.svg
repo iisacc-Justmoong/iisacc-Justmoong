@@ -1,36 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="648" height="276" viewBox="0 0 648 276" role="img" aria-labelledby="title desc">
 <title id="title">Languages in my public repositories</title>
-<desc id="desc">C++ 75.0%; Python 8.6%; QML 6.2%; CMake 4.7%; Swift 1.2%; Objective-C++ 1.1%; PowerShell 0.9%; Other 2.4%. By GitHub language bytes; not coding time or proficiency.</desc>
+<desc id="desc">C++ 74.7%; Python 9.8%; QML 5.4%; CMake 4.9%; Objective-C++ 1.1%; Swift 1.0%; PowerShell 0.8%; Other 2.3%. By GitHub language bytes; not coding time or proficiency.</desc>
 <rect x="0.5" y="0.5" width="647" height="275" rx="12" fill="#ffffff" stroke="#d1d9e0"/>
 <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif">
 <text x="32" y="43" fill="#1f2328" font-size="24" font-weight="600">Languages</text>
 <text x="32" y="66" fill="#59636e" font-size="13">Public repositories · code size</text>
 <defs><clipPath id="bar"><rect x="32" y="86" width="584" height="16" rx="5"/></clipPath></defs>
 <g clip-path="url(#bar)">
-<rect x="32.000000" y="86" width="437.963089" height="16" fill="#f34b7d"/>
-<rect x="469.963089" y="86" width="49.938305" height="16" fill="#3572A5"/>
-<rect x="519.901394" y="86" width="36.184061" height="16" fill="#44a51c"/>
-<rect x="556.085455" y="86" width="27.488880" height="16" fill="#DA3434"/>
-<rect x="583.574334" y="86" width="7.174942" height="16" fill="#F05138"/>
-<rect x="590.749276" y="86" width="6.205874" height="16" fill="#6866fb"/>
-<rect x="596.955150" y="86" width="5.259941" height="16" fill="#012456"/>
-<rect x="602.215091" y="86" width="13.784909" height="16" fill="#8b949e"/>
+<rect x="32.000000" y="86" width="436.298752" height="16" fill="#f34b7d"/>
+<rect x="468.298752" y="86" width="57.386150" height="16" fill="#3572A5"/>
+<rect x="525.684902" y="86" width="31.285770" height="16" fill="#44a51c"/>
+<rect x="556.970671" y="86" width="28.765246" height="16" fill="#DA3434"/>
+<rect x="585.735917" y="86" width="6.240082" height="16" fill="#6866fb"/>
+<rect x="591.975999" y="86" width="6.062118" height="16" fill="#F05138"/>
+<rect x="598.038117" y="86" width="4.383424" height="16" fill="#012456"/>
+<rect x="602.421542" y="86" width="13.578458" height="16" fill="#8b949e"/>
 </g>
 <circle cx="37" cy="128" r="5" fill="#f34b7d" stroke="#59636e" stroke-width="0.5"/>
-<text x="51" y="133" fill="#1f2328" font-size="15" font-weight="600">C++ <tspan fill="#59636e" font-weight="400">75.0%</tspan></text>
+<text x="51" y="133" fill="#1f2328" font-size="15" font-weight="600">C++ <tspan fill="#59636e" font-weight="400">74.7%</tspan></text>
 <circle cx="329" cy="128" r="5" fill="#3572A5" stroke="#59636e" stroke-width="0.5"/>
-<text x="343" y="133" fill="#1f2328" font-size="15" font-weight="600">Python <tspan fill="#59636e" font-weight="400">8.6%</tspan></text>
+<text x="343" y="133" fill="#1f2328" font-size="15" font-weight="600">Python <tspan fill="#59636e" font-weight="400">9.8%</tspan></text>
 <circle cx="37" cy="158" r="5" fill="#44a51c" stroke="#59636e" stroke-width="0.5"/>
-<text x="51" y="163" fill="#1f2328" font-size="15" font-weight="600">QML <tspan fill="#59636e" font-weight="400">6.2%</tspan></text>
+<text x="51" y="163" fill="#1f2328" font-size="15" font-weight="600">QML <tspan fill="#59636e" font-weight="400">5.4%</tspan></text>
 <circle cx="329" cy="158" r="5" fill="#DA3434" stroke="#59636e" stroke-width="0.5"/>
-<text x="343" y="163" fill="#1f2328" font-size="15" font-weight="600">CMake <tspan fill="#59636e" font-weight="400">4.7%</tspan></text>
-<circle cx="37" cy="188" r="5" fill="#F05138" stroke="#59636e" stroke-width="0.5"/>
-<text x="51" y="193" fill="#1f2328" font-size="15" font-weight="600">Swift <tspan fill="#59636e" font-weight="400">1.2%</tspan></text>
-<circle cx="329" cy="188" r="5" fill="#6866fb" stroke="#59636e" stroke-width="0.5"/>
-<text x="343" y="193" fill="#1f2328" font-size="15" font-weight="600">Objective-C++ <tspan fill="#59636e" font-weight="400">1.1%</tspan></text>
+<text x="343" y="163" fill="#1f2328" font-size="15" font-weight="600">CMake <tspan fill="#59636e" font-weight="400">4.9%</tspan></text>
+<circle cx="37" cy="188" r="5" fill="#6866fb" stroke="#59636e" stroke-width="0.5"/>
+<text x="51" y="193" fill="#1f2328" font-size="15" font-weight="600">Objective-C++ <tspan fill="#59636e" font-weight="400">1.1%</tspan></text>
+<circle cx="329" cy="188" r="5" fill="#F05138" stroke="#59636e" stroke-width="0.5"/>
+<text x="343" y="193" fill="#1f2328" font-size="15" font-weight="600">Swift <tspan fill="#59636e" font-weight="400">1.0%</tspan></text>
 <circle cx="37" cy="218" r="5" fill="#012456" stroke="#59636e" stroke-width="0.5"/>
-<text x="51" y="223" fill="#1f2328" font-size="15" font-weight="600">PowerShell <tspan fill="#59636e" font-weight="400">0.9%</tspan></text>
+<text x="51" y="223" fill="#1f2328" font-size="15" font-weight="600">PowerShell <tspan fill="#59636e" font-weight="400">0.8%</tspan></text>
 <circle cx="329" cy="218" r="5" fill="#8b949e" stroke="#59636e" stroke-width="0.5"/>
-<text x="343" y="223" fill="#1f2328" font-size="15" font-weight="600">Other <tspan fill="#59636e" font-weight="400">2.4%</tspan></text>
-<text x="32" y="256" fill="#59636e" font-size="12">52 repositories · 24 languages · updated 2026-11-10</text>
+<text x="343" y="223" fill="#1f2328" font-size="15" font-weight="600">Other <tspan fill="#59636e" font-weight="400">2.3%</tspan></text>
+<text x="32" y="256" fill="#59636e" font-size="12">52 repositories · 25 languages · updated 2026-11-11</text>
 </g></svg>
