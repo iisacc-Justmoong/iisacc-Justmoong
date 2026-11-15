@@ -3,14 +3,14 @@
   "scope": "Owned public non-fork repositories, including archived repositories; profile repository excluded.",
   "metric": "GitHub Linguist language bytes on each repository's default branch",
   "deduplication": "Each repository ID once; copied code across distinct repositories is not deduplicated.",
-  "total_bytes": 72120641,
+  "total_bytes": 72298573,
   "repository_count": 52,
   "repositories_with_code": 52,
   "languages": {
-    "C++": 53915828,
-    "Python": 7069310,
+    "C++": 54059572,
+    "Python": 7082595,
     "QML": 3854623,
-    "CMake": 3551407,
+    "CMake": 3571088,
     "Objective-C++": 770017,
     "Swift": 746777,
     "PowerShell": 539983,
@@ -20,7 +20,7 @@
     "Makefile": 183596,
     "Java": 156847,
     "Rust": 143879,
-    "C": 111994,
+    "C": 113216,
     "Svelte": 110905,
     "CSS": 74459,
     "JavaScript": 47798,
@@ -365,12 +365,12 @@
       "archived": false,
       "default_branch": "main",
       "languages": {
-        "C": 466,
-        "C++": 314269,
-        "CMake": 22086,
+        "C": 1308,
+        "C++": 386916,
+        "CMake": 40460,
         "Java": 31785,
         "Objective-C++": 19366,
-        "Python": 3043,
+        "Python": 4114,
         "QML": 18311
       }
     },
@@ -421,10 +421,10 @@
       "archived": false,
       "default_branch": "main",
       "languages": {
-        "C": 196,
-        "C++": 238401,
-        "CMake": 13285,
-        "Python": 6262,
+        "C": 576,
+        "C++": 309498,
+        "CMake": 14592,
+        "Python": 13538,
         "Ruby": 1064,
         "Shell": 717
       }
@@ -614,7 +614,7 @@
         "CMake": 92419,
         "Objective-C++": 11130,
         "PowerShell": 15030,
-        "Python": 268781,
+        "Python": 273719,
         "Shell": 2599
       }
     },
@@ -723,5 +723,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-14T10:52:20+00:00"
+  "updated_at": "2026-11-15T11:26:38+00:00"
 }
