@@ -3,31 +3,31 @@
   "scope": "Owned public non-fork repositories, including archived repositories; profile repository excluded.",
   "metric": "GitHub Linguist language bytes on each repository's default branch",
   "deduplication": "Each repository ID once; copied code across distinct repositories is not deduplicated.",
-  "total_bytes": 72298573,
+  "total_bytes": 74387831,
   "repository_count": 52,
   "repositories_with_code": 52,
   "languages": {
-    "C++": 54059572,
-    "Python": 7082595,
-    "QML": 3854623,
-    "CMake": 3571088,
-    "Objective-C++": 770017,
+    "C++": 56726686,
+    "Python": 7200523,
+    "CMake": 3775249,
+    "QML": 2850175,
+    "Objective-C++": 878964,
     "Swift": 746777,
     "PowerShell": 539983,
     "Shell": 295659,
-    "TypeScript": 292436,
+    "TypeScript": 292570,
     "C#": 193672,
     "Makefile": 183596,
     "Java": 156847,
     "Rust": 143879,
-    "C": 113216,
+    "C": 113349,
     "Svelte": 110905,
     "CSS": 74459,
-    "JavaScript": 47798,
+    "JavaScript": 43952,
     "HTML": 31992,
     "TSQL": 10267,
     "Objective-C": 7279,
-    "GLSL": 6898,
+    "GLSL": 6033,
     "Ruby": 2227,
     "SystemVerilog": 1853,
     "Dockerfile": 609,
@@ -73,9 +73,8 @@
       "archived": false,
       "default_branch": "main",
       "languages": {
-        "C++": 2358817,
-        "CMake": 126076,
-        "JavaScript": 4490,
+        "C++": 2394295,
+        "CMake": 128379,
         "PowerShell": 193263,
         "Python": 210202,
         "Shell": 4685
@@ -97,16 +96,14 @@
       "archived": false,
       "default_branch": "master",
       "languages": {
-        "C": 6366,
-        "C++": 4677569,
-        "CMake": 147867,
-        "GLSL": 865,
+        "C": 6997,
+        "C++": 6536312,
+        "CMake": 279017,
         "Java": 5034,
         "JavaScript": 18822,
         "Makefile": 183596,
-        "Objective-C++": 33699,
-        "Python": 210313,
-        "QML": 1005464,
+        "Objective-C++": 114976,
+        "Python": 224162,
         "Shell": 5304
       }
     },
@@ -132,7 +129,7 @@
         "C": 167,
         "C++": 46161,
         "CMake": 10583,
-        "Python": 14447
+        "Python": 12862
       }
     },
     {
@@ -245,9 +242,9 @@
       "archived": false,
       "default_branch": "main",
       "languages": {
-        "C": 7576,
-        "C++": 1689391,
-        "CMake": 38689,
+        "C": 3198,
+        "C++": 1474464,
+        "CMake": 28764,
         "Python": 18953
       }
     },
@@ -258,14 +255,14 @@
       "default_branch": "main",
       "languages": {
         "C": 6186,
-        "C++": 5701900,
-        "CMake": 237341,
+        "C++": 5857885,
+        "CMake": 247024,
         "GLSL": 6033,
         "Java": 9953,
-        "JavaScript": 3173,
+        "JavaScript": 3817,
         "Objective-C": 6776,
-        "Objective-C++": 383497,
-        "Python": 190994,
+        "Objective-C++": 403702,
+        "Python": 191353,
         "Shell": 654
       }
     },
@@ -287,9 +284,9 @@
       "archived": false,
       "default_branch": "main",
       "languages": {
-        "C++": 190568,
-        "CMake": 17316,
-        "Python": 2771,
+        "C++": 171496,
+        "CMake": 14240,
+        "Python": 1819,
         "Shell": 1097
       }
     },
@@ -300,10 +297,10 @@
       "default_branch": "master",
       "languages": {
         "C": 534,
-        "C++": 1057242,
-        "CMake": 146396,
+        "C++": 1256579,
+        "CMake": 154205,
         "Objective-C++": 20779,
-        "Python": 3095127,
+        "Python": 3132783,
         "Shell": 7012
       }
     },
@@ -314,10 +311,10 @@
       "default_branch": "master",
       "languages": {
         "C": 1448,
-        "C++": 487471,
-        "CMake": 43545,
+        "C++": 505678,
+        "CMake": 44154,
         "Objective-C++": 1700,
-        "Python": 142026,
+        "Python": 144951,
         "Shell": 1844
       }
     },
@@ -327,10 +324,10 @@
       "archived": false,
       "default_branch": "main",
       "languages": {
-        "C": 1487,
-        "C++": 3211956,
-        "CMake": 106013,
-        "Python": 421208,
+        "C": 9669,
+        "C++": 3287648,
+        "CMake": 121378,
+        "Python": 449994,
         "QML": 12697,
         "Shell": 2024
       }
@@ -354,9 +351,9 @@
       "archived": false,
       "default_branch": "master",
       "languages": {
-        "C": 22632,
-        "C++": 990970,
-        "CMake": 60615
+        "C": 11316,
+        "C++": 905455,
+        "CMake": 39161
       }
     },
     {
@@ -365,13 +362,13 @@
       "archived": false,
       "default_branch": "main",
       "languages": {
-        "C": 1308,
-        "C++": 386916,
-        "CMake": 40460,
+        "C": 8057,
+        "C++": 435118,
+        "CMake": 55032,
         "Java": 31785,
         "Objective-C++": 19366,
-        "Python": 4114,
-        "QML": 18311
+        "Python": 30710,
+        "QML": 18391
       }
     },
     {
@@ -380,10 +377,10 @@
       "archived": false,
       "default_branch": "main",
       "languages": {
-        "C": 693,
-        "C++": 376298,
-        "CMake": 83257,
-        "Python": 89365,
+        "C": 624,
+        "C++": 376273,
+        "CMake": 80928,
+        "Python": 88160,
         "Shell": 628,
         "SystemVerilog": 1853
       }
@@ -409,9 +406,10 @@
       "default_branch": "master",
       "languages": {
         "C": 6960,
-        "C++": 3879199,
-        "CMake": 201626,
+        "C++": 3885574,
+        "CMake": 201843,
         "Python": 46438,
+        "QML": 57,
         "Shell": 11709
       }
     },
@@ -483,8 +481,8 @@
       "languages": {
         "C": 6055,
         "C++": 276294,
-        "CMake": 33154,
-        "Python": 60023,
+        "CMake": 34016,
+        "Python": 62044,
         "Shell": 1036
       }
     },
@@ -576,9 +574,10 @@
       "default_branch": "main",
       "languages": {
         "C": 10388,
-        "C++": 5605278,
-        "CMake": 425480,
-        "Python": 484167,
+        "C++": 5649998,
+        "CMake": 431886,
+        "Python": 483839,
+        "QML": 879,
         "Shell": 628
       }
     },
@@ -614,7 +613,7 @@
         "CMake": 92419,
         "Objective-C++": 11130,
         "PowerShell": 15030,
-        "Python": 273719,
+        "Python": 279669,
         "Shell": 2599
       }
     },
@@ -624,13 +623,13 @@
       "archived": false,
       "default_branch": "master",
       "languages": {
-        "C": 12170,
-        "C++": 2119137,
-        "CMake": 148693,
+        "C": 12504,
+        "C++": 2663051,
+        "CMake": 200662,
         "Java": 49332,
         "Objective-C": 216,
-        "Objective-C++": 68639,
-        "Python": 202154,
+        "Objective-C++": 76104,
+        "Python": 206010,
         "QML": 562242,
         "Swift": 27964
       }
@@ -703,7 +702,7 @@
       "languages": {
         "HTML": 20073,
         "JavaScript": 3486,
-        "TypeScript": 186921
+        "TypeScript": 187055
       }
     },
     {
@@ -723,5 +722,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-15T11:26:38+00:00"
+  "updated_at": "2026-11-16T11:59:14+00:00"
 }
