@@ -3,15 +3,15 @@
   "scope": "Owned public non-fork repositories, including archived repositories; profile repository excluded.",
   "metric": "GitHub Linguist language bytes on each repository's default branch",
   "deduplication": "Each repository ID once; copied code across distinct repositories is not deduplicated.",
-  "total_bytes": 79745004,
+  "total_bytes": 79950437,
   "repository_count": 52,
   "repositories_with_code": 52,
   "languages": {
-    "C++": 60608435,
-    "Python": 8359827,
-    "CMake": 4068747,
+    "C++": 60794404,
+    "Python": 8365397,
+    "CMake": 4073183,
     "QML": 2837656,
-    "Objective-C++": 875048,
+    "Objective-C++": 884206,
     "Swift": 746777,
     "PowerShell": 539983,
     "Shell": 296314,
@@ -20,7 +20,7 @@
     "Makefile": 183596,
     "Java": 156847,
     "Rust": 143879,
-    "C": 119616,
+    "C": 119916,
     "Svelte": 110905,
     "JavaScript": 74988,
     "CSS": 74459,
@@ -624,13 +624,13 @@
       "archived": false,
       "default_branch": "master",
       "languages": {
-        "C": 12314,
-        "C++": 3002868,
-        "CMake": 211874,
+        "C": 12614,
+        "C++": 3188837,
+        "CMake": 216310,
         "Java": 49332,
         "Objective-C": 216,
-        "Objective-C++": 76100,
-        "Python": 219768,
+        "Objective-C++": 85258,
+        "Python": 225338,
         "QML": 549723,
         "Swift": 27964
       }
@@ -723,5 +723,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-22T11:55:18+00:00"
+  "updated_at": "2026-11-23T13:34:26+00:00"
 }
